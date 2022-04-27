@@ -8,7 +8,7 @@ This document specifies the Grindery Nexus Node API methods.
 - [Connectors](#connectors)
   - [gn_createConnector](#gn_createConnector)
   - [gn_getConnectors](#gn_getConnectors)
-  - [gn_getConnectors](#gn_getConnectors)
+  - [gn_getConnector](#gn_getConnector)
   - [gn_updateConnector](#gn_updateConnector)
 - [Workflows](#workflows)
   - [gn_createWorkflow](#gn_createWorkflow)
