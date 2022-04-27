@@ -115,8 +115,6 @@ none.
 
 **Returns:**
 
-array<[WorkflowSchema](https://github.com/grindery-io/grindery-nexus-schema/tree/master/workflows#workflowschema)> | a list of workflow definitions.
-
 `Array<object>` | an array of objects each representing one workflow.
 
 Each item should have the following properties.
